@@ -23,6 +23,6 @@ Beispiel Verwendung:
 https://demo.stromdao.de/showcase/sc_infra_frm.html
 
 ## Links
-(IP Symcon)[https://www.symcon.de/]
-(StromDAO)[https://stromdao.de]
-(Showcases)[https://demo.stromdao.de/showcase/]
+[IP Symcon](https://www.symcon.de/)
+[StromDAO](https://stromdao.de)
+[Showcases](https://demo.stromdao.de/showcase/)
